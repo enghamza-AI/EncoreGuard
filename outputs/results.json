@@ -1,0 +1,68 @@
+{
+  "results": [
+    {
+      "TP": 20,
+      "FP": 180,
+      "FN": 0,
+      "TN": 0,
+      "precision": 0.1,
+      "recall": 1.0,
+      "f1": 0.1818,
+      "threshold": 1
+    },
+    {
+      "TP": 20,
+      "FP": 109,
+      "FN": 0,
+      "TN": 71,
+      "precision": 0.155,
+      "recall": 1.0,
+      "f1": 0.2685,
+      "threshold": 2
+    },
+    {
+      "TP": 20,
+      "FP": 0,
+      "FN": 0,
+      "TN": 180,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "threshold": 3
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 19,
+      "TN": 180,
+      "precision": 1.0,
+      "recall": 0.05,
+      "f1": 0.0952,
+      "threshold": 4
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 20,
+      "TN": 180,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "threshold": 5
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 20,
+      "TN": 180,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "threshold": 6
+    }
+  ],
+  "optimal_threshold": 3,
+  "window": 5,
+  "true_threshold": 3,
+  "n_plays": 200
+}
